@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 This self-learning project was developed by following and cloning a [YouTube tutorial](https://www.youtube.com/watch?v=fGkRQgf6Scw) that demonstrates how to build a browser-based IDE using:
 - Next.js
+- Tailwind CSS
 - Piston API & Monaco Editor
 - Clerk
 - Convex
